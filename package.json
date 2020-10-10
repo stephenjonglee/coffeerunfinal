@@ -1,0 +1,22 @@
+{
+  "name": "coffeerunfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenjonglee/coffeerunfinal.git"
+  },
+  "author": "Stephen Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenjonglee/coffeerunfinal/issues"
+  },
+  "homepage": "https://github.com/stephenjonglee/coffeerunfinal#readme",
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  }
+}
