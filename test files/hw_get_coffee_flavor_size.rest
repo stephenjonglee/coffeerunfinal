@@ -77,5 +77,3 @@ GET http://{{baseUrl}}/coffeeorders/size/tall HTTP/1.1
 
 # get short sizes
 GET http://{{baseUrl}}/coffeeorders/size/short HTTP/1.1
-
-###

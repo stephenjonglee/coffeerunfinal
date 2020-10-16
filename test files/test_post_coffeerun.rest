@@ -65,5 +65,3 @@ content-type: application/json
     "flavor": "None",
     "strength": "65"
 }
-
-###

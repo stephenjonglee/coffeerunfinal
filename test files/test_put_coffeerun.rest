@@ -26,4 +26,3 @@ content-type: application/json
     "flavor": "Mocha",
     "strength": "100"
 }
-

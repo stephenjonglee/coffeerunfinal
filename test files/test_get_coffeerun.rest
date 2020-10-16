@@ -23,4 +23,3 @@ GET http://{{baseUrl}}/coffeeorders/jbezos@amazon.com HTTP/1.1
 
 # get any order from mscott@starfleet.com (should be one)
 GET http://{{baseUrl}}/coffeeorders/mscott@starfleet.com HTTP/1.1
-
